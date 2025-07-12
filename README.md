@@ -11,7 +11,7 @@ I'm a **Computer Science (MSc.A.C.)** student from **University of Toronto**
   
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KennyYao2001&show_icons=true&count_private=true&theme=transparent" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=KecenYao&show_icons=true&count_private=true&theme=transparent" align="left" />  
 
 <br/>   
 <br>
@@ -26,13 +26,13 @@ I'm a **Computer Science (MSc.A.C.)** student from **University of Toronto**
 Please feel free to contact me: kecenyao@cs.toronto.edu 
   
 
-<a href="https://github.com/KennyYao2001" target="_blank">
+<a href="https://github.com/KecenYao" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/KelingYao" target="_blank">
+<a href="https://twitter.com/KecenYao" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/keling-yao-319581249" target="_blank">
+<a href="https://www.linkedin.com/in/kecenyao/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -64,7 +64,7 @@ Please feel free to contact me: kecenyao@cs.toronto.edu
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=KennyYao2001&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=KecenYao&&style=flat-square" align="center" />
 </div>  
 
 <br />
