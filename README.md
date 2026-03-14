@@ -2,10 +2,7 @@
   
 
 I'm a **Computer Science (MSc.A.C.)** student from **University of Toronto**  
-  
-
-- 🔭 I’m currently working on layout understanding and information extraction at **CIBC**
-  
+    
 
 - 🌱 I’m currently learning Large Vision Language Model, LLM, Generaive models, and Agent!
   
